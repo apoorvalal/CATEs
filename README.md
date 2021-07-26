@@ -2,7 +2,7 @@
 
 Caller package to implement multiple CATE estimators.
 
-Fork of [CATEs](https://github.com/MCKnaus/CATEs): implementation of
+Fork and extension of [CATEs](https://github.com/MCKnaus/CATEs): implementation of
 all estimators that are applied in the Empirical Monte Carlo Study of
 [Knaus](https://mcknaus.github.io/),
 [Lechner](https://www.michael-lechner.eu/) and
@@ -66,3 +66,4 @@ round(mMSE*1000, 2)  |> t()
 
 Knaus, Lechner, Strittmatter (2020). Machine Learning Estimation of Heterogeneous Causal
 Effects: Empirical Monte Carlo Evidence, [arXiv](https://arxiv.org/abs/1810.13237)
+​https://paperpile.com/shared/5GjwwC
