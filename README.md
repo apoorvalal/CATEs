@@ -63,7 +63,7 @@ round(mMSE*1000, 2)  |> t()
 ```
 
 ## References
-
-Knaus, Lechner, Strittmatter (2020). Machine Learning Estimation of Heterogeneous Causal
++ [https://paperpile.com/shared/5GjwwC](https://paperpile.com/shared/5GjwwC)
++ Knaus, Lechner, Strittmatter (2020). Machine Learning Estimation of Heterogeneous Causal
 Effects: Empirical Monte Carlo Evidence, [arXiv](https://arxiv.org/abs/1810.13237)
-​https://paperpile.com/shared/5GjwwC
+
